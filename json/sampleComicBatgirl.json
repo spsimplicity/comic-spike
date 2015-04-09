@@ -1,0 +1,22 @@
+{
+    "issues": [
+        {
+            "publisher": "DC",
+            "title": "Batgirl",
+            "event": "Endgame",
+            "issue": 1,
+            "writers": [
+                "Stewart"
+            ],
+            "artists": [
+                "Fletcher",
+                "Bengal"
+            ],
+            "data": "May 2015",
+            "price": 2.99,
+            "barcode": 6194133066,
+            "rating": "Teen",
+            "cover": ""
+        }
+    ]
+}

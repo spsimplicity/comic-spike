@@ -1,0 +1,23 @@
+{
+    "issues": [
+        {
+            "publisher": "DC",
+            "title": "Batman and Robin",
+            "event": "",
+            "issue": 40,
+            "writers": [
+                "Tomasi"
+            ],
+            "artists": [
+                "Gleason",
+                "Gray",
+                "Kalisz"
+            ],
+            "data": "May 2015",
+            "price": 2.99,
+            "barcode": 6194130641,
+            "rating": "Teen",
+            "cover": ""
+        }
+    ]
+}

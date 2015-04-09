@@ -1,0 +1,16 @@
+{
+    "collections": [
+        {
+            "publisher": "DC",
+            "title": "Batgirl",
+            "issues": 40,
+            "logo": ""
+        },
+        {
+            "publisher": "DC",
+            "title": "Batman and Robin",
+            "issues": 40,
+            "logo": ""
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Comic-Spike",
+  "version": "1.0.0",
+  "description": "A simple spike to test ideas for a future website",
+  "author": "Sean Powers",
+  "constributors": [
+    {
+      "name": "Sean Powers",
+      "email": "spsimplicity@gmail.com"
+    }
+  ],
+  "bin": {},
+  "scripts": {},
+  "main": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/spsimplicity/comic-spike"
+  },
+  "bugs": {},
+  "keywords": [],
+  "dependencies": {
+    "babel": "^5.0.10",
+    "flux": "^2.0.1",
+    "isomorphic-fetch": "^2.0.1",
+    "react": "^0.13.1"
+  },
+  "devDependencies": {
+    "browserify": "^9.0.7",
+    "gulp": "^3.8.11",
+    "gulp-autoprefixer": "^2.1.0",
+    "gulp-babel": "^5.0.0",
+    "gulp-browserify": "^0.5.1",
+    "gulp-less": "^3.0.2",
+    "gulp-minify-css": "^1.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.1.0",
+    "gulp-watch": "^4.2.3"
+  }
+}
